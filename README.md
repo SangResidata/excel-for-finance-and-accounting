@@ -11,11 +11,8 @@ This repository serves as a curated collection of resources, case studies, and t
     Analysis: Providing robust frameworks for insightful financial analysis and data-driven decision-making.
 
 ## Key Modules
-Module	Description
-Financial Modeling	Building dynamic Income Statements, Balance Sheets, and Cash Flow projections.
-Accounting Automation	Leveraging advanced functions (XLOOKUP, INDEX-MATCH) and Power Query for efficient data reconciliation.
-Data Validation & Audit	Techniques for building error-proof, traceable, and transparent financial models.
-Financial Analysis	Tools for ratio analysis, break-even analysis, and budget variance reporting.
+<img width="987" height="167" alt="image" src="https://github.com/user-attachments/assets/06e39678-4c8f-42d6-997c-9968d90aea7b" />
+
 
 ## Tech Stack & Tools
 
