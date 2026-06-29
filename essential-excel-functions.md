@@ -12,11 +12,11 @@ all analysts will have a short list all analysts will have a short list of favor
 Excel’s lookup functions are helpful as they search a row or column for a particular value or can locate a value in a specific position within the data.
 The INDEX function returns a value or the reference to a value from within a table or range. Useful for retrieving individual data points.
 
-'''
-=INDEX(array,row_num,[column_num])
 
-=INDEX(reference,row_num,[column_num],[area_num])
-'''
+  =INDEX(array,row_num,[column_num])
+
+  =INDEX(reference,row_num,[column_num],[area_num])
+
 
 In this example we are being asked to find the third product in the products list. The formula highlights the data range and then specifies 3 as the data point to retrieve, which in this case is lipstick.
 
