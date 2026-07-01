@@ -37,7 +37,12 @@ The VLOOKUP function is a vertical search function within an array. It looks for
 
     =VLOOKUP(lookup_value,lookup_array,return_array,[if_not_found],[match_model],[search model])
 
-This example asks us to find the position of Zaret in the list. Zaret is 12th in the list of names so the match function returns 12 as the answer.
+This example asks us to find out what product has Zaret sold. The formula highlights that it is searching for Zaret within the data range, and then requires an output from the 3rd column along in that particular row.  
+
+<img width="702" height="313" alt="image" src="https://github.com/user-attachments/assets/9cb82e97-4d69-4cdf-9db5-f98dc8d36098" />  
+
+
+
 
 
 
