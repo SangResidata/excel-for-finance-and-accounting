@@ -31,6 +31,13 @@ This example asks us to find the position of Zaret in the list. Zaret is 12th in
 
 <img width="768" height="341" alt="image" src="https://github.com/user-attachments/assets/72c8ac93-910b-459d-aecc-16bdbe38d29d" />
 
+## VLOOKUP
+
+The VLOOKUP function is a vertical search function within an array. It looks for a value in the leftmost column of a table, and then returns a value in the same row from a specified column.
+
+    =VLOOKUP(lookup_value,lookup_array,return_array,[if_not_found],[match_model],[search model])
+
+This example asks us to find the position of Zaret in the list. Zaret is 12th in the list of names so the match function returns 12 as the answer.
 
 
 
