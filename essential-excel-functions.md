@@ -51,6 +51,11 @@ The OFFSET function returns a cell or an array a set distance away from a starti
 
 This example asks us to find the cell 2 rows (down) and 3 columns (right) from B14.  
 
+<img width="695" height="315" alt="image" src="https://github.com/user-attachments/assets/21d1af90-3316-4790-96a8-91cacf8ed4a1" />  
+
+
+
+
 
 
 
