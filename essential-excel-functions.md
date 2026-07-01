@@ -41,6 +41,17 @@ This example asks us to find out what product has Zaret sold. The formula highli
 
 <img width="702" height="313" alt="image" src="https://github.com/user-attachments/assets/9cb82e97-4d69-4cdf-9db5-f98dc8d36098" />  
 
+An HLOOKUP works in the same way but is a horizontal rather than vertical search so will move along the rows rather than columns to find the output required. XLOOKUP is a newer Excel function and will work in any direction and return exact matches.  
+
+## OFFSET
+
+The OFFSET function returns a cell or an array a set distance away from a starting point.  
+
+     =OFFSET(reference, rows, cols, [height], [width])  
+
+This example asks us to find the cell 2 rows (down) and 3 columns (right) from B14.  
+
+
 
 
 
