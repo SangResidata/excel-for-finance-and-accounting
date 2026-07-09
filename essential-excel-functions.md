@@ -61,6 +61,13 @@ The CHOOSE function returns a value from a list and is part of a broader set of 
 
 In this example, revenue growth and EBITDA margin are the assumptions used to calculate the projections. The analyst has created three scenarios: worst, base and best case for both these assumptions. Using the CHOOSE function, it is possible to create a dynamic model which switches between these assumptions, by changing the scenario number in cell C6.  
 
+By toggling the value in cell C6 from 1 an to 3, analyst will be able to present either the worst, base or best case scenario for both revenue growth and EBITDA margin. The assumptions used for each scenario are presented in the tables above.  
+
+<img width="702" height="283" alt="image" src="https://github.com/user-attachments/assets/7f3d24ca-79b4-4f73-9ff4-a2c5a2adc042" />  
+
+
+
+
 
 
 
