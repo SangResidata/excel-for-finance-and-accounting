@@ -53,6 +53,16 @@ This example asks us to find the cell 2 rows (down) and 3 columns (right) from B
 
 <img width="695" height="315" alt="image" src="https://github.com/user-attachments/assets/21d1af90-3316-4790-96a8-91cacf8ed4a1" />  
 
+## CHOOSE
+
+The CHOOSE function returns a value from a list and is part of a broader set of Microsoft Excel functions that allows analysts to run different scenarios in the model.  
+
+     =CHOOSE(index_num, value1, [value2],…)  
+
+In this example, revenue growth and EBITDA margin are the assumptions used to calculate the projections. The analyst has created three scenarios: worst, base and best case for both these assumptions. Using the CHOOSE function, it is possible to create a dynamic model which switches between these assumptions, by changing the scenario number in cell C6.  
+
+
+
 
 
 
