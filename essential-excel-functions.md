@@ -71,6 +71,12 @@ The ISBLANK function is used to check whether a cell is blank and returns TRUE i
 
      =ISBLANK(value)
 
+Below is a list of cells that contains a different value. In this example, if the cell contains nothing at all, the ISBLANK function will return TRUE. If it contains any value, including any space, text, number, date, time, month, year, percentage, logical value, formula or even error value, ISBLANK will return FALSE.  
+
+<img width="704" height="330" alt="image" src="https://github.com/user-attachments/assets/e7699be1-f20c-4fea-82e4-5f58c0272342" />  
+
+
+
 
 
 
