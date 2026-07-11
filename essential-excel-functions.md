@@ -75,6 +75,19 @@ Below is a list of cells that contains a different value. In this example, if th
 
 <img width="704" height="330" alt="image" src="https://github.com/user-attachments/assets/e7699be1-f20c-4fea-82e4-5f58c0272342" />  
 
+## ISERROR
+
+The ISERROR function is a logical function that is used to identify whether cells contain an error value or not. If there is any type of error in the cell it will return TRUE as result, and if not, it returns FALSE.
+
+     =ISERROR(value)
+
+In the below example we are asked to check for errors in the value column.
+
+<img width="698" height="327" alt="image" src="https://github.com/user-attachments/assets/ac9f4ac1-a133-43f0-b852-5c2164b7925b" /> 
+
+
+
+
 
 
 
