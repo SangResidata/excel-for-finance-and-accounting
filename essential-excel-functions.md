@@ -65,6 +65,11 @@ By toggling the value in cell C6 from 1 an to 3, analyst will be able to present
 
 <img width="702" height="283" alt="image" src="https://github.com/user-attachments/assets/7f3d24ca-79b4-4f73-9ff4-a2c5a2adc042" />  
 
+## ISBLANK
+
+The ISBLANK function is used to check whether a cell is blank and returns TRUE if it is or FALSE if it is not.
+
+     =ISBLANK(value)
 
 
 
