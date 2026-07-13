@@ -96,7 +96,10 @@ The NPV function calculates the net present value of an investment by using a di
 
      =NPV(rate_value1,[value2],…)
 
-In this example we are asked to calculate the NPV for each of the cash flows using the IRR as the discount rate.
+In this example we are asked to calculate the NPV for each of the cash flows using the IRR as the discount rate. 
+
+<img width="639" height="222" alt="image" src="https://github.com/user-attachments/assets/40c42eee-989a-4b0e-a27b-7ebb1550438a" />
+
 
 
 
