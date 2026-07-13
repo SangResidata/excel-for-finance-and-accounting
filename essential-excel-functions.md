@@ -98,7 +98,20 @@ The NPV function calculates the net present value of an investment by using a di
 
 In this example we are asked to calculate the NPV for each of the cash flows using the IRR as the discount rate. 
 
-<img width="639" height="222" alt="image" src="https://github.com/user-attachments/assets/40c42eee-989a-4b0e-a27b-7ebb1550438a" />
+<img width="639" height="222" alt="image" src="https://github.com/user-attachments/assets/40c42eee-989a-4b0e-a27b-7ebb1550438a" />  
+
+## XNP
+
+The XNPV function calculates the net present value of a series of cash flows that don’t occur at regular intervals, using specified dates and a discount rate.
+
+     =XNPV(rate, values, dates)
+
+In this example we are asked to calculate the NPV using the XNPV function to take into account the non-periodic dates. 
+
+<img width="698" height="225" alt="image" src="https://github.com/user-attachments/assets/cede63a3-0bf0-4b21-b511-01dba3d8b6ce" />  
+
+
+
 
 
 
