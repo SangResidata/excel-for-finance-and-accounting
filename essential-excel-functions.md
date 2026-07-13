@@ -86,7 +86,17 @@ In the below example we are asked to check for errors in the value column.
 <img width="698" height="327" alt="image" src="https://github.com/user-attachments/assets/ac9f4ac1-a133-43f0-b852-5c2164b7925b" /> 
 
 
+# FINANCIAL FORMULAS
 
+Financial formulas can significantly reduce the amount of time and effort required to complete more complete calculations.  
+
+## NPV
+
+The NPV function calculates the net present value of an investment by using a discount rate and a series of future cash flows.
+
+     =NPV(rate_value1,[value2],…)
+
+In this example we are asked to calculate the NPV for each of the cash flows using the IRR as the discount rate.
 
 
 
