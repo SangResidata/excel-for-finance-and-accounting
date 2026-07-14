@@ -110,6 +110,14 @@ In this example we are asked to calculate the NPV using the XNPV function to tak
 
 <img width="698" height="225" alt="image" src="https://github.com/user-attachments/assets/cede63a3-0bf0-4b21-b511-01dba3d8b6ce" />  
 
+## IRR
+
+The IRR function calculates the internal rate of return for a series of periodic cash flows.
+
+     =IRR(values,[guess])
+
+In this example we are asked to calculate the annual return for the below cash streams. Note that a negative value denotes a cash outflow for the investor.
+
 
 
 
