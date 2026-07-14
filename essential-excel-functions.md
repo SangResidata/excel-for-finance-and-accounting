@@ -124,7 +124,12 @@ In this example we are asked to calculate the annual return for the below cash s
 
 The XIRR function calculates the internal rate of return with specified dates.
 
-In this example we have already calculated the XNPV and we are being asked to calculate the IRR using the XIRR function to take into account the non-periodic dates.  
+In this example we have already calculated the XNPV and we are being asked to calculate the IRR using the XIRR function to take into account the non-periodic dates. 
+
+<img width="720" height="240" alt="image" src="https://github.com/user-attachments/assets/1133ba4f-af88-442f-9f2b-02fe79c2f690" />  
+
+
+
 
 
 
