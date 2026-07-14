@@ -116,7 +116,18 @@ The IRR function calculates the internal rate of return for a series of periodic
 
      =IRR(values,[guess])
 
-In this example we are asked to calculate the annual return for the below cash streams. Note that a negative value denotes a cash outflow for the investor.
+In this example we are asked to calculate the annual return for the below cash streams. Note that a negative value denotes a cash outflow for the investor.  
+
+<img width="637" height="130" alt="image" src="https://github.com/user-attachments/assets/e2c0f8bd-c36a-4bce-a5e0-7f66d62053a2" />  
+
+## XIRR
+
+The XIRR function calculates the internal rate of return with specified dates.
+
+In this example we have already calculated the XNPV and we are being asked to calculate the IRR using the XIRR function to take into account the non-periodic dates.  
+
+
+
 
 
 
