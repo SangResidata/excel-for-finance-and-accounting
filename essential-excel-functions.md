@@ -137,6 +137,11 @@ The TODAY function in Excel returns the current date. The format of the date can
 
      =TODAY()
 
+<img width="715" height="79" alt="image" src="https://github.com/user-attachments/assets/f1fedc56-69ce-455b-b6ad-e760e2e5f593" />  
+
+
+
+
 
 
 
