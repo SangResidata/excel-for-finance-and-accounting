@@ -129,6 +129,15 @@ In this example we have already calculated the XNPV and we are being asked to ca
 <img width="720" height="240" alt="image" src="https://github.com/user-attachments/assets/1133ba4f-af88-442f-9f2b-02fe79c2f690" />  
 
 
+# Date and Time Functions
+
+## TODAY
+
+The TODAY function in Excel returns the current date. The format of the date can be amended later using the format cells, date function to customize it.
+
+     =TODAY()
+
+
 
 
 
