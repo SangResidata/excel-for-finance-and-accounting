@@ -139,6 +139,19 @@ The TODAY function in Excel returns the current date. The format of the date can
 
 <img width="715" height="79" alt="image" src="https://github.com/user-attachments/assets/f1fedc56-69ce-455b-b6ad-e760e2e5f593" />  
 
+## EOMONTH
+
+The EOMONTH function returns the number for the last day of the month that is the indicated number of months before or after a specified date.
+
+     =EOMONTH(start_date,months)
+
+In this example we are asked what the date (end of the month) six months from the start date is. This is useful if we are looking to establish the potential completion date which will be six months later.  
+
+<img width="719" height="104" alt="image" src="https://github.com/user-attachments/assets/a6104745-6ce9-4482-bc40-d51cae102782" />  
+
+
+
+
 
 
 
