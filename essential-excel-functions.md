@@ -7,7 +7,7 @@ For many analysts, being able to use the powerful built-in functions in Excel is
 
 all analysts will have a short list all analysts will have a short list of favorite Excel functions that are used on a daily basis to save time and effort. Here is our list of functions that every finance professional should know.
 
-## Lookup Functions
+# Lookup Functions
 
 Excel’s lookup functions are helpful as they search a row or column for a particular value or can locate a value in a specific position within the data.
 The INDEX function returns a value or the reference to a value from within a table or range. Useful for retrieving individual data points.
@@ -86,7 +86,7 @@ In the below example we are asked to check for errors in the value column.
 <img width="698" height="327" alt="image" src="https://github.com/user-attachments/assets/ac9f4ac1-a133-43f0-b852-5c2164b7925b" /> 
 
 
-# FINANCIAL FORMULAS
+# Financial Formulas
 
 Financial formulas can significantly reduce the amount of time and effort required to complete more complete calculations.  
 
@@ -157,6 +157,13 @@ The YEARFRAC function calculates as a fraction of the year, the number of whole 
 The example asks us, as a fraction of the year, how many days are there from the start and end dates?  
 
 <img width="718" height="145" alt="image" src="https://github.com/user-attachments/assets/0ce3d53d-f6db-474b-af54-f75aa03095ab" />  
+
+
+# Concatenate Functions
+
+The CONCATENATE functions join and combine various pieces of text within Excel. This can be helpful when editing names or codes within databases.  
+
+
 
 
 
