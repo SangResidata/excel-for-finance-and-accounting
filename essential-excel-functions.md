@@ -163,6 +163,17 @@ The example asks us, as a fraction of the year, how many days are there from the
 
 The CONCATENATE functions join and combine various pieces of text within Excel. This can be helpful when editing names or codes within databases.  
 
+## CONCATENATE
+
+The CONCATENATE function joins several text items into one text item. Note that in newer versions of Excel, this function is replaced by =CONCAT.
+
+     =CONCAT(text1,…)
+
+Note in the formula the deliberate space “ “ left between the two cell locations so that the two words have a space between them in the resulting cell.
+
+<img width="716" height="352" alt="image" src="https://github.com/user-attachments/assets/e8d0f8ad-3fcb-43d4-aabb-e5c29b6bee2f" />  
+
+
 
 
 
