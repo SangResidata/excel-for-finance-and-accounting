@@ -149,6 +149,18 @@ In this example we are asked what the date (end of the month) six months from th
 
 <img width="719" height="104" alt="image" src="https://github.com/user-attachments/assets/a6104745-6ce9-4482-bc40-d51cae102782" />  
 
+## YEARFRAC
+
+The YEARFRAC function calculates as a fraction of the year, the number of whole days between two dates. This establishes the exact number of days between two transactions and can be helpful for calculations looking at accrued interest rate payments etc. The ‘basis’ element of the formula specifies which type of day count to use (such as 360 or 365 day convention).
+=YEARFRAC(start_date,end_date,[basis])
+
+The example asks us, as a fraction of the year, how many days are there from the start and end dates?  
+
+<img width="718" height="145" alt="image" src="https://github.com/user-attachments/assets/0ce3d53d-f6db-474b-af54-f75aa03095ab" />  
+
+
+
+
 
 
 
