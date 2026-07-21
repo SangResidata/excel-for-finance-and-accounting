@@ -185,7 +185,19 @@ The delimiter is put within quote marks is the character that separates the text
 
 # Math Functions
 
-Math functions are unsurprisingly some of the most used Excel formulas for financial analysts. Once learned they can be combined to build more complex calculations within Excel.
+Math functions are unsurprisingly some of the most used Excel formulas for financial analysts. Once learned they can be combined to build more complex calculations within Excel.  
+
+## SUM
+
+The SUM function adds all the numbers in a range of cells.
+     =SUM(number1,[number2],…)
+
+In this example we are asked what the total units of products sold is.  
+
+<img width="717" height="289" alt="image" src="https://github.com/user-attachments/assets/91108500-6819-43f7-aa7d-ca51b54164e6" />  
+
+
+
 
 
 
