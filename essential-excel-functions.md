@@ -173,6 +173,19 @@ Note in the formula the deliberate space “ “ left between the two cell locat
 
 <img width="716" height="352" alt="image" src="https://github.com/user-attachments/assets/e8d0f8ad-3fcb-43d4-aabb-e5c29b6bee2f" />  
 
+## TEXTJOIN
+
+The TEXTJOIN function allows strings of text data to be concatenated into longer text strings. TEXTJOIN function is similar to CONCATENATE, however when we use the CONCATENATE function the cells must be selected individually.
+
+     =TEXTJOIN(delimiter, ignore_empty, text1, [text2], …)
+
+The delimiter is put within quote marks is the character that separates the text string (in our example, it is a comma). Adding “ignore empty” signals that empty cells are to be ignored. 
+
+<img width="719" height="317" alt="image" src="https://github.com/user-attachments/assets/5fe038d8-c9fa-4a96-a013-6f839e20f8da" />  
+
+
+
+
 
 
 
