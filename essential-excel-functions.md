@@ -183,6 +183,10 @@ The delimiter is put within quote marks is the character that separates the text
 
 <img width="719" height="317" alt="image" src="https://github.com/user-attachments/assets/5fe038d8-c9fa-4a96-a013-6f839e20f8da" />  
 
+# Math Functions
+
+Math functions are unsurprisingly some of the most used Excel formulas for financial analysts. Once learned they can be combined to build more complex calculations within Excel.
+
 
 
 
