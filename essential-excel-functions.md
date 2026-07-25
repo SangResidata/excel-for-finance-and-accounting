@@ -196,6 +196,16 @@ In this example we are asked what the total units of products sold is.
 
 <img width="717" height="289" alt="image" src="https://github.com/user-attachments/assets/91108500-6819-43f7-aa7d-ca51b54164e6" />  
 
+## MEDIAN  
+
+The MEDIAN function returns the median, or the middle number in a set of figures. If there is an even number of figures, the median is the average of the two middle figures .
+
+     =MEDIAN(number1,[number2],…)
+
+In this example we are asked for the median sale amount per transaction.  
+
+
+
 
 
 
