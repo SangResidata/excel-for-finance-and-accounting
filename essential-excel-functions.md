@@ -215,6 +215,16 @@ In this example we are asked for the lowest amount sale amount per transaction.
 
 <img width="717" height="287" alt="image" src="https://github.com/user-attachments/assets/94543721-b39c-4364-9083-7fe997120c04" />  
 
+## MAX
+
+The MAX function returns the largest value in a set of values.
+     =MAX(number1,[number2,…)
+
+In this example we are asked for the highest number of units sold in a transaction.  
+
+<img width="718" height="290" alt="image" src="https://github.com/user-attachments/assets/7aa61267-0b71-4979-945a-a16571d40ab1" />  
+
+
 
 
 
