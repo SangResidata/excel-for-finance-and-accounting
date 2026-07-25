@@ -204,6 +204,21 @@ The MEDIAN function returns the median, or the middle number in a set of figures
 
 In this example we are asked for the median sale amount per transaction.  
 
+<img width="715" height="292" alt="image" src="https://github.com/user-attachments/assets/fec420ed-d559-4130-af76-48cbe935dc72" />  
+
+## MIN
+
+The MIN function returns the smallest value in a set of values.
+     =MIN(number1,[number2],…)
+
+In this example we are asked for the lowest amount sale amount per transaction.  
+
+<img width="717" height="287" alt="image" src="https://github.com/user-attachments/assets/94543721-b39c-4364-9083-7fe997120c04" />  
+
+
+
+
+
 
 
 
