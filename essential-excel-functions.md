@@ -234,6 +234,22 @@ In this example we are asked for the average sale amount of the products sold.
 
 <img width="712" height="290" alt="image" src="https://github.com/user-attachments/assets/cdaba06a-ab07-4ccf-9388-83b5fde7ccb4" />  
 
+#D Functions
+
+The D functions search through multiple data aggregation within a table (with the D standing for Database) and can be used for more detailed criteria searches.  
+
+##DSUM
+
+The DSUM function adds the numbers in a field/column of records in a list or database that match conditions specified.
+
+In this example we are asked how many units of lip gloss Ashley has sold. The formula firstly highlights the data range, then specifies that “unit” is found, and adds the conditions that it must match Ashley and lip gloss.  
+
+<img width="718" height="323" alt="image" src="https://github.com/user-attachments/assets/c2ff8c26-d517-4341-8f7f-91713739de38" />  
+
+
+
+
+
 
 
 
