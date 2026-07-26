@@ -224,6 +224,14 @@ In this example we are asked for the highest number of units sold in a transacti
 
 <img width="718" height="290" alt="image" src="https://github.com/user-attachments/assets/7aa61267-0b71-4979-945a-a16571d40ab1" />  
 
+## AVERAGE
+
+The AVERAGE function returns the average (arithmetic mean) of the arguments.
+
+     =AVERAGE(number1,[number2],…)
+
+In this example we are asked for the average sale amount of the products sold.
+
 
 
 
