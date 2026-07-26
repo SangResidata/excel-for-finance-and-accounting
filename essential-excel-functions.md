@@ -230,7 +230,12 @@ The AVERAGE function returns the average (arithmetic mean) of the arguments.
 
      =AVERAGE(number1,[number2],…)
 
-In this example we are asked for the average sale amount of the products sold.
+In this example we are asked for the average sale amount of the products sold.  
+
+<img width="712" height="290" alt="image" src="https://github.com/user-attachments/assets/cdaba06a-ab07-4ccf-9388-83b5fde7ccb4" />  
+
+
+
 
 
 
