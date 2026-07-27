@@ -234,17 +234,28 @@ In this example we are asked for the average sale amount of the products sold.
 
 <img width="712" height="290" alt="image" src="https://github.com/user-attachments/assets/cdaba06a-ab07-4ccf-9388-83b5fde7ccb4" />  
 
-#D Functions
+# D Functions
 
 The D functions search through multiple data aggregation within a table (with the D standing for Database) and can be used for more detailed criteria searches.  
 
-##DSUM
+## DSUM
 
 The DSUM function adds the numbers in a field/column of records in a list or database that match conditions specified.
 
 In this example we are asked how many units of lip gloss Ashley has sold. The formula firstly highlights the data range, then specifies that “unit” is found, and adds the conditions that it must match Ashley and lip gloss.  
 
 <img width="718" height="323" alt="image" src="https://github.com/user-attachments/assets/c2ff8c26-d517-4341-8f7f-91713739de38" />  
+
+## DMAX
+
+The DMAX function finds the maximum value in a field/column of records in a list or database for selected records that match conditions specified.
+
+In this example we are asked what Ashley’s biggest sale in 2013 is. The DMAX formula is similar format to the DSUM formula above, but this time specifying the sales amount as the output.
+
+<img width="716" height="324" alt="image" src="https://github.com/user-attachments/assets/c1ad2a13-9cc5-4d1e-bf9b-afe3489daf59" />  
+
+
+
 
 
 
