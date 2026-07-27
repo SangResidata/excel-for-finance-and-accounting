@@ -264,6 +264,10 @@ In this example we are asked what the average units sold by Ashley in the south 
 
 <img width="717" height="321" alt="image" src="https://github.com/user-attachments/assets/cced0bdb-5154-46b3-9e0a-fe48b639c6bd" />  
 
+# Conditional Functions
+
+The conditional functions are extremely useful and can be used in formulas with the math functions to create more explicit calculations within Excel.
+
 
 
 
