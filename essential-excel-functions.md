@@ -254,6 +254,16 @@ In this example we are asked what Ashley’s biggest sale in 2013 is. The DMAX f
 
 <img width="716" height="324" alt="image" src="https://github.com/user-attachments/assets/c1ad2a13-9cc5-4d1e-bf9b-afe3489daf59" />  
 
+## DAVERAGE
+
+The DAVERAGE function averages the values in a field of records in a list/database that match conditions specified.
+
+     = DAVERAGE(database, field, criteria)
+
+In this example we are asked what the average units sold by Ashley in the south is.
+
+<img width="717" height="321" alt="image" src="https://github.com/user-attachments/assets/cced0bdb-5154-46b3-9e0a-fe48b639c6bd" />  
+
 
 
 
