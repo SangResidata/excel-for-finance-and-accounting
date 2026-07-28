@@ -277,6 +277,11 @@ The IF function checks whether a condition is met, returns one value if true, an
 
 The below example asks us to identify sales of over 40 units. Analysts could use True or False rather than the Yes/No format shown below. The IF function could also return a value or 1 or 0 which could then be used for further calculations if needed.
 
+<img width="714" height="325" alt="image" src="https://github.com/user-attachments/assets/351dfc4d-6efc-4ae3-ad05-b8d50d638382" />  
+
+
+
+
 
 
 
