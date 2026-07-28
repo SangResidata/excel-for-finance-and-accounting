@@ -269,7 +269,13 @@ In this example we are asked what the average units sold by Ashley in the south 
 The conditional functions are extremely useful and can be used in formulas with the math functions to create more explicit calculations within Excel.
 
 
+## IF
 
+The IF function checks whether a condition is met, returns one value if true, another if false.
+
+      =IF(logical_test,[value_if_true],[value_if_false])
+
+The below example asks us to identify sales of over 40 units. Analysts could use True or False rather than the Yes/No format shown below. The IF function could also return a value or 1 or 0 which could then be used for further calculations if needed.
 
 
 
