@@ -280,6 +280,18 @@ The below example asks us to identify sales of over 40 units. Analysts could use
 <img width="714" height="325" alt="image" src="https://github.com/user-attachments/assets/351dfc4d-6efc-4ae3-ad05-b8d50d638382" />  
 
 
+## SUMIF
+
+The SUMIF function adds the cells specified by a given condition or criteria.
+     =SUMIF(range,criteria,[sum_range])
+
+In this example we are asked what Betsy’s total sales are. The formula allows us to highlight the data range and then specify to sum the figures if they belong to Betty.
+
+<img width="720" height="293" alt="image" src="https://github.com/user-attachments/assets/a163139e-d0fc-4de3-8358-74a184e78394" />  
+
+
+
+
 
 
 
