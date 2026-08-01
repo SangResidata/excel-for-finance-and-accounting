@@ -29,7 +29,7 @@ This repository serves as a curated collection of resources, case studies, and t
 
 ## Philosophy
 
-This repository is built on the principle: "Excel should be audit-ready, not just functional." Every template provided here emphasizes readability, structural integrity, and logic-driven design, ensuring that you can work faster while minimizing the risk of errors.
+This repository is built on the principle: "Excel should be audit-ready, not just functional." Every template provided here emphasizes readability, structural integrity, and logic-driven design, ensuring that you can work faster while minimizing the risk of errors
 
 ## Contributions & Feedback
 
