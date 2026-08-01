@@ -1,6 +1,6 @@
 # Excel for Finance & Accounting Mastery
 
-This repository serves as a curated collection of resources, case studies, and templates specifically designed for finance and accounting professionals. The primary focus is on enhancing efficiency, ensuring data accuracy, and implementing industry-standard best practices in financial modeling and accounting workflows.
+This repository serves as a curated collection of resources, case studies, and templates specifically designed for finance and accounting professionals. The primary focus is on enhancing efficiency, ensuring data accuracy, and implementing industry-standard best practices in financial modeling and accounting workflows
 
 ##  Repository Objectives
 
