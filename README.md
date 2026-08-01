@@ -21,11 +21,11 @@ This repository serves as a curated collection of resources, case studies, and t
 
 ## Tech Stack & Tools
 
-    Microsoft Excel: Advanced Formulas, Pivot Tables, Data Validation.
+    Microsoft Excel: Advanced Formulas, Pivot Tables, Data Validation
 
-    Power Query: Streamlining ETL (Extract, Transform, Load) processes for transactional data.
+    Power Query: Streamlining ETL (Extract, Transform, Load) processes for transactional data
 
-    Financial Logic: Adherence to standard accounting principles (GAAP/IFRS).
+    Financial Logic: Adherence to standard accounting principles (GAAP/IFRS)
 
 ## Philosophy
 
