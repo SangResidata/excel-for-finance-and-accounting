@@ -299,6 +299,26 @@ In this example we are asked how many units of lip gloss Betsy has sold.
 
 <img width="719" height="274" alt="image" src="https://github.com/user-attachments/assets/991c256f-056b-4de1-98e8-8de511619652" />
 
+##IFS
+
+The IFS function evaluates multiple conditions and returns a value corresponding to the first true condition.
+
+=IFS(logical_test1,value_if_true1,…)
+
+The example uses the IFS statement to identify units sold as low or high depending on whether the units sold are over 40 and if the sale amount is less than 60.
+
+<img width="717" height="244" alt="image" src="https://github.com/user-attachments/assets/b98e2a4a-5e82-4748-8547-afdb6d3dd9a5" />
+
+## IFERROR
+
+The IFERROR function returns a specified value if a formula results in an error, otherwise returns the result of the formula.
+
+     =IFERROR(value, value_if_error).
+
+The formula entered here provides and “Error in Calculation” output if there are any errors within the data range. It could also provide a numerical output (e.g. 1 or 0) if error data was producing #REF or similar error message which were disrupting larger calculations using the data range.  
+
+<img width="713" height="249" alt="image" src="https://github.com/user-attachments/assets/0d961208-6857-406d-a6e7-4dfd51d07a4d" />
+
 
 
 
