@@ -289,6 +289,15 @@ In this example we are asked what Betsy’s total sales are. The formula allows 
 
 <img width="720" height="293" alt="image" src="https://github.com/user-attachments/assets/a163139e-d0fc-4de3-8358-74a184e78394" />  
 
+## SUMIFS
+
+The SUMIFS function adds cells in a range that meet multiple criteria.
+
+     =SUMIFS(sum_range,criteria_range1,criteria1,…)
+
+In this example we are asked how many units of lip gloss Betsy has sold.  
+
+<img width="719" height="274" alt="image" src="https://github.com/user-attachments/assets/991c256f-056b-4de1-98e8-8de511619652" />
 
 
 
