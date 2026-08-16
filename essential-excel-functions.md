@@ -317,7 +317,19 @@ The IFERROR function returns a specified value if a formula results in an error,
 
 The formula entered here provides and “Error in Calculation” output if there are any errors within the data range. It could also provide a numerical output (e.g. 1 or 0) if error data was producing #REF or similar error message which were disrupting larger calculations using the data range.  
 
-<img width="713" height="249" alt="image" src="https://github.com/user-attachments/assets/0d961208-6857-406d-a6e7-4dfd51d07a4d" />
+<img width="713" height="249" alt="image" src="https://github.com/user-attachments/assets/0d961208-6857-406d-a6e7-4dfd51d07a4d" />  
+
+
+## COUNTIF
+
+The COUNTIF function counts the number of cells within a range that meet the given condition.
+
+     =COUNTIF(range,criteria)
+
+In this example we are asked how many transactions Betsy has made. The answer is 3.  
+
+<img width="716" height="289" alt="image" src="https://github.com/user-attachments/assets/b275cd90-230b-41de-8b1a-77c20c22e381" />
+
 
 
 
