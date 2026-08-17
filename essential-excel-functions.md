@@ -331,6 +331,13 @@ In this example we are asked how many transactions Betsy has made. The answer is
 <img width="716" height="289" alt="image" src="https://github.com/user-attachments/assets/b275cd90-230b-41de-8b1a-77c20c22e381" />
 
 
+## AVERAGEIF
+
+The AVERAGEIF function returns the average (arithmetic mean) for the cells specified by a given condition or criteria.
+
+     =AVERAGEIF(range,criteria,[average_range])
+
+In this example we are asked what is the average sale amount for sales over 30 units?
 
 
 
