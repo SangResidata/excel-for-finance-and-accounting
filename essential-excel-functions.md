@@ -341,6 +341,10 @@ In this example we are asked what is the average sale amount for sales over 30 u
 
 <img width="717" height="327" alt="image" src="https://github.com/user-attachments/assets/2f1ad23f-a1d1-44b0-9168-bca84de8bd7e" />  
 
+## Conclusion
+
+Using functions can significantly improve data analysis in Excel, particularly when dealing with large data ranges. By learning a few of Excel’s built-in functions it can save a lot of time and allow for deeper analysis of the underlying data. Always make sure you check the functions once inserted and ensure that the data range is correct to avoid any errors.
+
 
 
 
