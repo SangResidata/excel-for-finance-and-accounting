@@ -16,6 +16,20 @@ Sebelum memasuki tahapan bagaimana caranya membuat pivot table, ada baiknya kita
     - Rows, Rows digunakan untuk menampilkan data secara vertical
     - Columns, Columns sendiri digunakan untuk menampilkan data secara horizontal.
     - Value, Value adalah nilai dari data.
-    - Filter, Filter digunakan untuk melakukan filtering terhadap data sesui kebutuhan.
+    - Filter, Filter digunakan untuk melakukan filtering terhadap data sesui kebutuhan.  
+
+## Tahapan Belajar Pivot Table
+
+Saat mempelajari teknik penggunaan pivot table, ada beberapa tahapan yang harus dipahami dari paling dasar sampai ke tahap mahir, misalnya:
+
+    Pemahaman teknik dasar penggunaan Pivot Table
+    Teknik Multy Value Field
+    Konsep Calculated Field
+    Teknik Grouping Data
+    Penggunaan Pivot Chart
+    Melakukan Filtering data dengan Sliser
+    Menggunakan Database Dinamis sebagai sumber data dari laporan pivot table
+
+Pada tutorial ini akan fokus membahas point yang pertama, yaitu: Pemahaman teknik dasar penggunaan Pivot Table. Sebagai bahan latihan, silakan download File database penjualan. Kemudian proses menjelaskan materi teknik dasar pivot table menggunakan pendekatan studi kasus.
 
 
