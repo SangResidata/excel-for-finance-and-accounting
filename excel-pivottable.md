@@ -40,5 +40,13 @@ Jika anda diminta untuk menampilkan informasi penjualan seperti pernyataan di ba
     2. Urutkan tampilan total penjualan dari besar ke kecil
     3. Ganti perhitungan total penjualan menjadi rata-rata
     4. Tampilkan informasi penjualan produk pada negara tertentu
-    5. Tampilkan Penjualan Produk sesuai kriteria kategori yang dipilih
+    5. Tampilkan Penjualan Produk sesuai kriteria kategori yang dipilih.
+
+## Cara Penggunaan Pivot Table
+
+    1. Buka file microsoft excel yang akan menjadi database utama
+    2. Aktif pada salah satu cell pada data tersebut lalu Klik *Insert*  
+
+            <img width="294" height="307" alt="image" src="https://github.com/user-attachments/assets/7c25cc6a-e234-48dd-803f-1aedb87f0bee" />
+
 
