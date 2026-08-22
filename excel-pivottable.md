@@ -32,4 +32,13 @@ Saat mempelajari teknik penggunaan pivot table, ada beberapa tahapan yang harus 
 
 Pada tutorial ini akan fokus membahas point yang pertama, yaitu: Pemahaman teknik dasar penggunaan Pivot Table. Sebagai bahan latihan, silakan download File database penjualan. Kemudian proses menjelaskan materi teknik dasar pivot table menggunakan pendekatan studi kasus.
 
+    Jika diperhatikan pada database yang sudah didownload terdiri dari 213 transaksi penjualan. Transaksi tersebut tercatat berdasarkan kolom ID Order (Order ID),        Nama Produk (Product), Kategori Produk (Category), Jumlah transaksi (Amount), Tanggal Transaksi (Date) dan Negara Terjadinya transaksi (Country).
+
+Jika anda diminta untuk menampilkan informasi penjualan seperti pernyataan di bawah ini, maka penyelesaiannya bisa dengan mengikuti langkah-langkah penggunaan pivot table.
+
+    Tampilkan total penjualan masing-masing produk
+    Urutkan tampilan total penjualan dari besar ke kecil
+    Ganti perhitungan total penjualan menjadi rata-rata
+    Tampilkan informasi penjualan produk pada negara tertentu
+    Tampilkan Penjualan Produk sesuai kriteria kategori yang dipilih
 
