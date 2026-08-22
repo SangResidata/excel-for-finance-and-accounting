@@ -22,13 +22,13 @@ Sebelum memasuki tahapan bagaimana caranya membuat pivot table, ada baiknya kita
 
 Saat mempelajari teknik penggunaan pivot table, ada beberapa tahapan yang harus dipahami dari paling dasar sampai ke tahap mahir, misalnya:
 
-    Pemahaman teknik dasar penggunaan Pivot Table
-    Teknik Multy Value Field
-    Konsep Calculated Field
-    Teknik Grouping Data
-    Penggunaan Pivot Chart
-    Melakukan Filtering data dengan Sliser
-    Menggunakan Database Dinamis sebagai sumber data dari laporan pivot table
+    1. Pemahaman teknik dasar penggunaan Pivot Table
+    2. Teknik Multy Value Field
+    3. Konsep Calculated Field
+    4. Teknik Grouping Data
+    5. Penggunaan Pivot Chart
+    6. Melakukan Filtering data dengan Sliser
+    7. Menggunakan Database Dinamis sebagai sumber data dari laporan pivot table
 
 Pada tutorial ini akan fokus membahas point yang pertama, yaitu: Pemahaman teknik dasar penggunaan Pivot Table. Sebagai bahan latihan, silakan download File database penjualan. Kemudian proses menjelaskan materi teknik dasar pivot table menggunakan pendekatan studi kasus.
 
@@ -36,9 +36,9 @@ Pada tutorial ini akan fokus membahas point yang pertama, yaitu: Pemahaman tekni
 
 Jika anda diminta untuk menampilkan informasi penjualan seperti pernyataan di bawah ini, maka penyelesaiannya bisa dengan mengikuti langkah-langkah penggunaan pivot table.
 
-    Tampilkan total penjualan masing-masing produk
-    Urutkan tampilan total penjualan dari besar ke kecil
-    Ganti perhitungan total penjualan menjadi rata-rata
-    Tampilkan informasi penjualan produk pada negara tertentu
-    Tampilkan Penjualan Produk sesuai kriteria kategori yang dipilih
+    1. Tampilkan total penjualan masing-masing produk
+    2. Urutkan tampilan total penjualan dari besar ke kecil
+    3. Ganti perhitungan total penjualan menjadi rata-rata
+    4. Tampilkan informasi penjualan produk pada negara tertentu
+    5. Tampilkan Penjualan Produk sesuai kriteria kategori yang dipilih
 
