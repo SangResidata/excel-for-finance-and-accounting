@@ -52,9 +52,9 @@ Jika anda diminta untuk menampilkan informasi penjualan seperti pernyataan di ba
 </div>
 
     3.Pada group Table, Pilih Pivot Table  
-
+<div align="center">
 <img width="303" height="308" alt="image" src="https://github.com/user-attachments/assets/5fd12fa2-f1a1-43e7-912b-dafab4504ca1" />
-
+</div>
             
-
+4. Setelah mengklik pivot table, akan akan mucul kotak dialog Create Pivot Table yang secara otomatis menseleksi table data kita. Hanya saja pastikan yang terseleksi adalah tabel data yang digunakan. Terakhir tekan OK
 
