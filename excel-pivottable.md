@@ -44,17 +44,20 @@ Jika anda diminta untuk menampilkan informasi penjualan seperti pernyataan di ba
 
 ## Cara Penggunaan Pivot Table
 
-    1. Buka file microsoft excel yang akan menjadi database utama
-    2. Aktif pada salah satu cell pada data tersebut lalu Klik *Insert*  
+1. Buka file microsoft excel yang akan menjadi database utama.
 
+2. Aktif pada salah satu cell pada data tersebut lalu Klik *Insert*  
 <div align="center">
 <img width="294" height="307" alt="image" src="https://github.com/user-attachments/assets/7c25cc6a-e234-48dd-803f-1aedb87f0bee" />
 </div>
 
-    3.Pada group Table, Pilih Pivot Table  
+3.Pada group Table, Pilih Pivot Table  
 <div align="center">
 <img width="303" height="308" alt="image" src="https://github.com/user-attachments/assets/5fd12fa2-f1a1-43e7-912b-dafab4504ca1" />
 </div>
             
 4. Setelah mengklik pivot table, akan akan mucul kotak dialog Create Pivot Table yang secara otomatis menseleksi table data kita. Hanya saja pastikan yang terseleksi adalah tabel data yang digunakan. Terakhir tekan OK
+<div align="center">
+<img width="290" height="245" alt="image" src="https://github.com/user-attachments/assets/14c8a836-8408-4b2c-b707-efeb9c552bf4" />
+</div>
 
