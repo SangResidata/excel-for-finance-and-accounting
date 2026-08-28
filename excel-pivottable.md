@@ -51,7 +51,10 @@ Jika anda diminta untuk menampilkan informasi penjualan seperti pernyataan di ba
 <img width="294" height="307" alt="image" src="https://github.com/user-attachments/assets/7c25cc6a-e234-48dd-803f-1aedb87f0bee" />
 </div>
 
-    3.Pada group Table, Pilih Pivot Table
+    3.Pada group Table, Pilih Pivot Table  
+
+<img width="303" height="308" alt="image" src="https://github.com/user-attachments/assets/5fd12fa2-f1a1-43e7-912b-dafab4504ca1" />
+
             
 
 
