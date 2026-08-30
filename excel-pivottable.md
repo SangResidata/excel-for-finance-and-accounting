@@ -56,8 +56,15 @@ Jika anda diminta untuk menampilkan informasi penjualan seperti pernyataan di ba
 <img width="303" height="308" alt="image" src="https://github.com/user-attachments/assets/5fd12fa2-f1a1-43e7-912b-dafab4504ca1" />
 </div>
             
-4. Setelah mengklik pivot table, akan akan mucul kotak dialog Create Pivot Table yang secara otomatis menseleksi table data kita. Hanya saja pastikan yang terseleksi adalah tabel data yang digunakan. Terakhir tekan OK
+4. Setelah mengklik pivot table, akan akan mucul kotak dialog Create Pivot Table yang secara otomatis menseleksi table data kita. Hanya saja pastikan yang terseleksi adalah tabel data yang digunakan. Terakhir tekan OK.  
 <div align="center">
 <img width="290" height="245" alt="image" src="https://github.com/user-attachments/assets/14c8a836-8408-4b2c-b707-efeb9c552bf4" />
-</div>
+</div>  
+
+5. Maka akan tampil worksheet baru untuk menggunakan pivot table.   
+<div align="center">
+<img width="533" height="285" alt="image" src="https://github.com/user-attachments/assets/775b2365-0f77-487f-8ab4-11f6dfdcbb58" />
+</div>  
+
+
 
