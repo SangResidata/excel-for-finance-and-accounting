@@ -66,5 +66,15 @@ Jika anda diminta untuk menampilkan informasi penjualan seperti pernyataan di ba
 <img width="533" height="285" alt="image" src="https://github.com/user-attachments/assets/775b2365-0f77-487f-8ab4-11f6dfdcbb58" />
 </div>  
 
+## PivotTable dari sumber lain
+
+Dengan mengklik panah bawah pada tombol, Anda dapat memilih dari sumber lain yang mungkin untuk PivotTable Anda. Selain menggunakan tabel atau rentang yang sudah ada, ada tiga sumber lain yang dapat Anda pilih untuk mengisi PivotTable Anda.  
+<div align="center">
+<img width="207" height="230" alt="image" src="https://github.com/user-attachments/assets/29059e75-282d-4393-a023-c7cee96c4317" />
+</div>  
+
+    Catatan:
+    Bergantung pada pengaturan TI organisasi Anda, Anda mungkin melihat nama organisasi Anda disertakan dalam daftar. Misalnya, "Dari Power BI (Microsoft)."
+
 
 
