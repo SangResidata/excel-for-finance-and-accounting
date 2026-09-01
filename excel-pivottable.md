@@ -76,5 +76,9 @@ Dengan mengklik panah bawah pada tombol, Anda dapat memilih dari sumber lain yan
     Catatan:
     Bergantung pada pengaturan TI organisasi Anda, Anda mungkin melihat nama organisasi Anda disertakan dalam daftar. Misalnya, "Dari Power BI (Microsoft)."
 
+### Dapatkan dari Sumber Data Eksternal
 
+<div align="center">
+<img width="532" height="284" alt="image" src="https://github.com/user-attachments/assets/024985b0-1fbe-4cfa-9eaf-5f97ed1c3410" />
+</div>  
 
