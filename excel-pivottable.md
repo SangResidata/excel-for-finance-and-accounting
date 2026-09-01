@@ -84,6 +84,10 @@ Dengan mengklik panah bawah pada tombol, Anda dapat memilih dari sumber lain yan
 
 Gunakan opsi ini jika buku kerja Anda berisi [Model Data](https://support.microsoft.com/id-id/excel/create-a-data-model-in-excel), dan Anda ingin membuat PivotTable dari beberapa tabel, menyempurnakan PivotTable dengan pengukuran kustom, atau bekerja dengan himpunan data yang sangat besar.  
 
+<div align="center">
+<img width="405" height="169" alt="image" src="https://github.com/user-attachments/assets/0b32c57b-8bb2-47cb-a8d2-9bf8301ff880" />
+</div> 
+
  
 
 
