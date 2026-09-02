@@ -88,6 +88,9 @@ Gunakan opsi ini jika buku kerja Anda berisi [Model Data](https://support.micros
 <img width="405" height="169" alt="image" src="https://github.com/user-attachments/assets/0b32c57b-8bb2-47cb-a8d2-9bf8301ff880" />
 </div> 
 
+### Dapatkan dari Power BI
+
+Gunakan opsi ini jika organisasi Anda menggunakan Power BI dan ingin menemukan dan menyambungkan ke kumpulan data cloud yang didukung yang dapat Anda akses.
  
 
 
