@@ -100,9 +100,12 @@ Gunakan opsi ini jika organisasi Anda menggunakan Power BI dan ingin menemukan d
 
 1. Untuk menambahkan bidang ke PivotTable, centang kotak nama bidang di panel Bidang PivotTable.
 
-    Catatan
-    Bidang yang dipilih ditambahkan ke area defaultnya: bidang nonnumerik ditambahkan ke Baris, hierarki tanggal dan waktu ditambahkan ke Kolom, dan bidang numerik       ditambahkan ke Nilai.
+        Catatan
+        Bidang yang dipilih ditambahkan ke area defaultnya: bidang nonnumerik ditambahkan ke Baris, hierarki tanggal dan waktu ditambahkan ke Kolom, dan bidang
+        numerik ditambahkan ke Nilai.
 
-
+<div align="center">
+<img width="294" height="548" alt="image" src="https://github.com/user-attachments/assets/ccd22469-4f64-46a5-9410-920072e11c01" />
+</div>  
 
 
