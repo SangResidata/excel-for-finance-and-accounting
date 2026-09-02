@@ -91,7 +91,10 @@ Gunakan opsi ini jika buku kerja Anda berisi [Model Data](https://support.micros
 ### Dapatkan dari Power BI
 
 Gunakan opsi ini jika organisasi Anda menggunakan Power BI dan ingin menemukan dan menyambungkan ke kumpulan data cloud yang didukung yang dapat Anda akses.
- 
+
+ <div align="center">
+<img width="259" height="412" alt="image" src="https://github.com/user-attachments/assets/6128ad80-6982-42cd-bbb5-c999996ea32d" />
+</div>  
 
 
 
