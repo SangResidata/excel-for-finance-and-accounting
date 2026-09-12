@@ -108,4 +108,11 @@ Gunakan opsi ini jika organisasi Anda menggunakan Power BI dan ingin menemukan d
 <img width="294" height="548" alt="image" src="https://github.com/user-attachments/assets/ccd22469-4f64-46a5-9410-920072e11c01" />
 </div>  
 
+2. Untuk memindahkan bidang dari satu area ke yang lain, seret bidang ke area target.
+
+
+## Merefresh PivotTable  
+
+
+
 
