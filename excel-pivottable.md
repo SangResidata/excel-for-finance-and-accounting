@@ -112,7 +112,7 @@ Gunakan opsi ini jika organisasi Anda menggunakan Power BI dan ingin menemukan d
 
 
 ## Merefresh PivotTable  
-
+Jika data baru ditambahkan ke sumber data PivotTable, setiap PivotTable yang dibuat berdasarkan sumber data tersebut perlu direfresh. Untuk me-refresh hanya satu PivotTable, Anda dapat mengklik kanan di mana saja dalam rentang PivotTable, lalu pilih Segarkan. Jika Anda memiliki beberapa PivotTable, pertama-tama pilih sel mana pun di PivotTable mana pun, lalu di pita buka Analisis PivotTable> , pilih panah di bawah tombol Refresh , lalu pilih Refresh All.
 
 
 
