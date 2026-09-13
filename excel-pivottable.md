@@ -124,5 +124,7 @@ Jika data baru ditambahkan ke sumber data PivotTable, setiap PivotTable yang dib
 
 Secara default, bidang PivotTable yang ditempatkan di area **Nilai** ditampilkan sebagai **SUM**. Jika Excel menafsirkan data Anda sebagai teks, data ditampilkan sebagai HITUNGAN. Inilah sebabnya sangat penting untuk memastikan bahwa Anda tidak mencampur tipe data untuk nilai bidang. Anda dapat mengubah penghitungan default dengan memilih panah di sebelah kanan nama bidang terlebih dahulu, lalu memilih opsi **Pengaturan Bidang Nilai.**
 
-
+<div align="center">
+<img width="226" height="308" alt="image" src="https://github.com/user-attachments/assets/77e35c98-79a6-4411-aebf-45177b7da4d6" />
+</div>  
 
