@@ -132,3 +132,6 @@ Secara default, bidang PivotTable yang ditempatkan di area **Nilai** ditampilkan
         Karena mengubah penghitungan di bagian **Ringkas Nilai Menurut** mengubah nama bidang PivotTable, sebaiknya jangan mengganti nama             bidang PivotTable hingga Anda selesai menyiapkan PivotTable. Salah satu triknya adalah dengan menggunakan **Temukan & Ganti (Ctrl+H)          >Temukan apa ">Jumlah", lalu Ganti dengan>** biarkan kosong untuk mengganti semuanya sekaligus alih-alih mengetik ulang secara manual.
 
 
+<div align="center">
+<img width="383" height="332" alt="image" src="https://github.com/user-attachments/assets/5047a7a0-efb4-4d78-b2d8-57c6efb96c29" />
+</div>  
