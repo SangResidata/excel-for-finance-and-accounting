@@ -144,4 +144,6 @@ Anda tidak hanya dapat menggunakan perhitungan untuk merangkum data, tetapi juga
 <img width="818" height="153" alt="image" src="https://github.com/user-attachments/assets/928558a8-d017-46ca-9c09-9ce2473b2bca" />
 </div>   
 
+Setelah membuka kotak dialog Pengaturan Bidang Nilai , Anda dapat membuat pilihan dari tab Tampilkan Nilai Sebagai.  
+
 
