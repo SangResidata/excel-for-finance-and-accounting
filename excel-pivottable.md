@@ -146,4 +146,6 @@ Anda tidak hanya dapat menggunakan perhitungan untuk merangkum data, tetapi juga
 
 Setelah membuka kotak dialog Pengaturan Bidang Nilai , Anda dapat membuat pilihan dari tab Tampilkan Nilai Sebagai.  
 
+**Tampilkan nilai sebagai perhitungan dan persentase.*
 
+Cukup seret item ke bagian Nilai dua kali, lalu atur opsi Ringkas Nilai Berdasarkan danTampilkan Nilai Sebagai untuk masing-masing item.
