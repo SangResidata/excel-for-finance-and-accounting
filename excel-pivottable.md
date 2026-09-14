@@ -138,4 +138,10 @@ Secara default, bidang PivotTable yang ditempatkan di area **Nilai** ditampilkan
 
 **Perlihatkan Nilai Sebagai**
 
-Anda tidak hanya dapat menggunakan perhitungan untuk merangkum data, tetapi juga dapat menampilkannya sebagai persentase dari bidang. Dalam contoh berikut ini, kami mengubah jumlah pengeluaran rumah tangga untuk ditampilkan sebagai % Total Akhir, dan bukan jumlah nilainya.
+Anda tidak hanya dapat menggunakan perhitungan untuk merangkum data, tetapi juga dapat menampilkannya sebagai persentase dari bidang. Dalam contoh berikut ini, kami mengubah jumlah pengeluaran rumah tangga untuk ditampilkan sebagai % Total Akhir, dan bukan jumlah nilainya.  
+
+<div align="center">
+<img width="818" height="153" alt="image" src="https://github.com/user-attachments/assets/928558a8-d017-46ca-9c09-9ce2473b2bca" />
+</div>   
+
+
